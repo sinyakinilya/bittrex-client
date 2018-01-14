@@ -1,0 +1,10 @@
+[package]
+name = "rust-bot"
+version = "0.1.0"
+authors = ["Ilya Sinyakin <sinyakin.ilya@gmail.com>"]
+
+[dependencies]
+curl = "0.4.11"
+serde_json = "1.0.9"
+sha2 = "*"
+hmac = "*"
